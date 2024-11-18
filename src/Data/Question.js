@@ -11,7 +11,7 @@ const questions = [
       options: ["useState", "useEffect", "Both", "None"],
       answer: "Both"
     },
-    // Add more questions
+  
   ];
   export default questions;
   
